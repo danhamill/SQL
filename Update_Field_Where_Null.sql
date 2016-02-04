@@ -1,0 +1,1 @@
+﻿UPDATE sept_2014 SET scan_line='R01761' WHERE scan_line IS NULL;
